@@ -8,7 +8,7 @@ function Home() {
         return <Auth/>
     }
   return (
-    <div>Home</div>
+    <div className='text-white'>Home</div>
   )
 }
 
